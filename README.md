@@ -38,8 +38,8 @@ This project implements a **machine learning model** to predict housing prices i
 
 ### **1. Installation**
 ```bash
-git clone https://github.com/yourusername/tehran-house-price-prediction.git
-cd tehran-house-price-prediction
+git clone https://github.com/nowherewalrus/Tehran_Housing_Price.git
+cd Tehran_Housing_Price
 pip install -r requirements.txt
 ```
 
