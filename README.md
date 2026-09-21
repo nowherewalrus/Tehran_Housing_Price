@@ -287,14 +287,11 @@ Main machine learning techniques:
 ```text
 Tehran-House-Price-Prediction/
 │
-├── House_Price_Prediction.ipynb
+├── house_price_prediction.ipynb
 ├── house_price.csv
 ├── README.md
 ├── requirements.txt
-│
-└── images/
-    ├── area_vs_price.png
-    └── model_performance.png
+
 ```
 
 ---
